@@ -8,9 +8,9 @@ Welcome to my GitHub! I specialize in crafting powerful assistant-driven solutio
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsanabbasi404&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanabbasi404&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ahsanabbasi404&theme=radical)
 
 ---
 
