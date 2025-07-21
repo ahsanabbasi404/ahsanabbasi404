@@ -56,7 +56,7 @@ Welcome to my GitHub! I specialize in crafting powerful assistant-driven solutio
 ### 📫 Let’s Connect
 
 - 🌐 [Your Website](me.nextwith.net)
-- 📧 ahsanabbasi699@gmail.com
+- 📧 **abbasiahsan699@gmail.com**
 
 ---
 
