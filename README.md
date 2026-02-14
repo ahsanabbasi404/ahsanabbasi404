@@ -1,8 +1,13 @@
+<div align="center">
+
 # Muhammad Ahsan
 
 **AI Assistant Developer · Next.js Engineer · Automation Architect**
 
-I build intelligent, automation-driven systems — from AI-powered assistants to full-stack SaaS platforms. My work sits at the intersection of clean engineering and practical impact: real workflows, real integrations, real results.
+I build intelligent, automation-driven systems — from AI-powered assistants to full-stack SaaS platforms.<br/>
+My work sits at the intersection of clean engineering and practical impact: real workflows, real integrations, real results.
+
+</div>
 
 ---
 
@@ -20,42 +25,47 @@ I build intelligent, automation-driven systems — from AI-powered assistants to
 
 ### Tech Stack
 
-**Frontend**
+<div align="center">
+
+**Frontend**&nbsp;&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
-**Backend**
+**Backend**&nbsp;&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-**AI & Automation**
+**AI & Automation**&nbsp;&nbsp;
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Pipedream](https://img.shields.io/badge/Pipedream-3C3C3C?style=flat&logo=pipedream&logoColor=white)
 
-**Databases & Cloud**
+**Databases & Cloud**&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
+</div>
+
 ---
 
 ### GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahsanabbasi404&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanabbasi404&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsanabbasi404&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanabbasi404&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="160"/>
+</div>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=ahsanabbasi404&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ahsanabbasi404&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</div>
 
 ---
 
