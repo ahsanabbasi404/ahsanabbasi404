@@ -57,11 +57,11 @@ My work sits at the intersection of clean engineering and practical impact: real
 
 ### GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahsanabbasi404&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" height="160"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanabbasi404&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="160"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ahsanabbasi404&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
