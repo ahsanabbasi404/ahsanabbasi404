@@ -1,63 +1,76 @@
-# 👋 Hi, I'm Muhammad Ahsan
+# Muhammad Ahsan
 
-### 🧠 Assistant & Workflow Developer | Next.js Specialist | Automation Engineer | Full-Stack Problem Solver
+**AI Assistant Developer · Next.js Engineer · Automation Architect**
 
-Welcome to my GitHub! I specialize in crafting powerful assistant-driven solutions, smart automations, and custom full-stack platforms. My focus is on building scalable web applications using **Next.js**, and integrating tools like **OpenAI**, **n8n**, and **Pipedream** to automate real-world workflows.
-
----
-
-### 📊 GitHub Stats
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanabbasi404&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=ahsanabbasi404&theme=radical)
+I build intelligent, automation-driven systems — from AI-powered assistants to full-stack SaaS platforms. My work sits at the intersection of clean engineering and practical impact: real workflows, real integrations, real results.
 
 ---
 
-### 💼 What I Do
+### What I Do
 
-- **AI Assistant Development**  
-  Build intelligent, multi-functional assistants using OpenAI (GPT, Whisper) tailored to real-world use cases.
+**AI & Assistant Development** — Intelligent multi-modal assistants using OpenAI (GPT-4, Whisper) built for real-world deployment: voice/text interfaces, document generation, scheduling, and structured decision-making.
 
-- **Next.js Application Development**  
-  Create clean, scalable, and optimized frontends and full-stack systems using Next.js, React, and modern backend services.
+**Next.js Application Development** — Production-grade full-stack applications using Next.js (App Router), React, Tailwind CSS, and modern backend services. From landing pages to enterprise dashboards.
 
-- **Workflow Automation**  
-  Automate complex workflows using platforms like **n8n** and **Pipedream** — integrated with Google Drive, Notion, Gmail, and more.
+**Workflow Automation** — End-to-end automation pipelines using **n8n** and **Pipedream**, integrated with Google Workspace, Notion, Slack, Gmail, and more. Custom code when platforms hit their limits.
 
-- **Custom Code Integrations**  
-  Go beyond no-code: write custom logic and backend services when automation tools aren’t enough.
-
-- **Full-Stack SaaS Development**  
-  Deliver production-ready platforms with authentication, API layers, databases, and dashboard UI.
+**Full-Stack SaaS** — Complete platforms with authentication, REST/GraphQL API layers, database design, and role-based dashboard UIs — built to ship and scale.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-- **Frontend**: Next.js, React, Tailwind CSS, Redux
-- **Backend**: Node.js, Express, FastAPI
-- **Automation**: n8n, Pipedream, Zapier
-- **Integrations**: OpenAI, Google Drive, Notion, Slack, Gmail, and more
-- **Databases**: MongoDB, PostgreSQL, Firebase
-- **DevOps & Deployment**: Vercel, Docker, GitHub Actions
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**AI & Automation**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Pipedream](https://img.shields.io/badge/Pipedream-3C3C3C?style=flat&logo=pipedream&logoColor=white)
+
+**Databases & Cloud**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
-### 🚀 Highlights
+### GitHub Stats
 
-- 🧩 **Custom Assistant Tools**: Voice/text assistants that automate file handling, reminders, scheduling, and document generation.
-- 🔄 **Smart Workflow Integration**: Connected Google services, Notion, and OpenAI into seamless workflows via n8n and Pipedream.
-- 🧱 **Next.js Dashboards**: Built secure, responsive UIs for enterprise use, with custom APIs, auth, and third-party APIs.
-- 🔧 **Custom API Connectors**: Developed code-based solutions to extend no-code tools when limits were reached.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsanabbasi404&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanabbasi404&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+</p>
 
----
-
-### 📫 Let’s Connect
-
-- 🌐 [Portfolio](me.nextwith.net) [Not maintained yet, working on private repos] 
-- 📧 **abbasiahsan699@gmail.com** [Contact me if you want to develop something creative]
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=ahsanabbasi404&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
 
 ---
 
-> “I build tools that assist, automate, and scale — all backed by clean code, thoughtful design, and real-world impact.”
+### Selected Work
+
+- **Voice & Text Assistants** — End-to-end AI assistants that handle file operations, meeting scheduling, reminders, and document drafting — deployed for real client use cases.
+- **Google + Notion + OpenAI Pipelines** — Automated research-to-documentation workflows connecting Drive, Sheets, Notion databases, and GPT-4 via n8n.
+- **Enterprise Next.js Dashboards** — Secure, multi-tenant UIs with custom auth, role-based access, paginated APIs, and third-party integrations.
+- **Custom API Connectors** — Code-layer extensions that push past the limits of no-code platforms, built when the workflow demands it.
+
+---
+
+### Contact
+
+[![Email](https://img.shields.io/badge/Email-abbasiahsan699%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abbasiahsan699@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-me.nextwith.net-000000?style=flat&logo=vercel&logoColor=white)](http://me.nextwith.net)
+
+> Currently working on private client projects. Open to interesting collaborations — especially anything involving AI, automation, or developer tooling.
