@@ -4,7 +4,7 @@
 
 **AI Assistant Developer · Next.js Engineer · Automation Architect**
 
-I build intelligent, automation-driven systems — from AI-powered assistants to full-stack SaaS platforms.<br/>
+I build intelligent, automation-driven systems - from AI-powered assistants to full-stack SaaS platforms.<br/>
 My work sits at the intersection of clean engineering and practical impact: real workflows, real integrations, real results.
 
 </div>
@@ -13,13 +13,13 @@ My work sits at the intersection of clean engineering and practical impact: real
 
 ### What I Do
 
-**AI & Assistant Development** — Intelligent multi-modal assistants using OpenAI (GPT-4, Whisper) built for real-world deployment: voice/text interfaces, document generation, scheduling, and structured decision-making.
+**AI & Assistant Development** - Intelligent multi-modal assistants using OpenAI (GPT-4, Whisper) built for real-world deployment: voice/text interfaces, document generation, scheduling, and structured decision-making.
 
-**Next.js Application Development** — Production-grade full-stack applications using Next.js (App Router), React, Tailwind CSS, and modern backend services. From landing pages to enterprise dashboards.
+**Next.js Application Development** - Production-grade full-stack applications using Next.js (App Router), React, Tailwind CSS, and modern backend services. From landing pages to enterprise dashboards.
 
-**Workflow Automation** — End-to-end automation pipelines using **n8n** and **Pipedream**, integrated with Google Workspace, Notion, Slack, Gmail, and more. Custom code when platforms hit their limits.
+**Workflow Automation** - End-to-end automation pipelines using **n8n** and **Pipedream**, integrated with Google Workspace, Notion, Slack, Gmail, and more. Custom code when platforms hit their limits.
 
-**Full-Stack SaaS** — Complete platforms with authentication, REST/GraphQL API layers, database design, and role-based dashboard UIs — built to ship and scale.
+**Full-Stack SaaS** - Complete platforms with authentication, REST/GraphQL API layers, database design, and role-based dashboard UIs - built to ship and scale.
 
 ---
 
@@ -71,10 +71,10 @@ My work sits at the intersection of clean engineering and practical impact: real
 
 ### Selected Work
 
-- **Voice & Text Assistants** — End-to-end AI assistants that handle file operations, meeting scheduling, reminders, and document drafting — deployed for real client use cases.
-- **Google + Notion + OpenAI Pipelines** — Automated research-to-documentation workflows connecting Drive, Sheets, Notion databases, and GPT-4 via n8n.
-- **Enterprise Next.js Dashboards** — Secure, multi-tenant UIs with custom auth, role-based access, paginated APIs, and third-party integrations.
-- **Custom API Connectors** — Code-layer extensions that push past the limits of no-code platforms, built when the workflow demands it.
+- **Voice & Text Assistants** - End-to-end AI assistants that handle file operations, meeting scheduling, reminders, and document drafting - deployed for real client use cases.
+- **Google + Notion + OpenAI Pipelines** - Automated research-to-documentation workflows connecting Drive, Sheets, Notion databases, and GPT-4 via n8n.
+- **Enterprise Next.js Dashboards** - Secure, multi-tenant UIs with custom auth, role-based access, paginated APIs, and third-party integrations.
+- **Custom API Connectors** - Code-layer extensions that push past the limits of no-code platforms, built when the workflow demands it.
 
 ---
 
@@ -83,4 +83,4 @@ My work sits at the intersection of clean engineering and practical impact: real
 [![Email](https://img.shields.io/badge/Email-abbasiahsan699%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abbasiahsan699@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-me.nextwith.net-000000?style=flat&logo=vercel&logoColor=white)](http://me.nextwith.net)
 
-> Currently working on private client projects. Open to interesting collaborations — especially anything involving AI, automation, or developer tooling.
+> Currently working on private client projects. Open to interesting collaborations - especially anything involving AI, automation, or developer tooling.
